@@ -18,7 +18,7 @@ where $\beta_{i}$ - the inverse temperature of i-th nuclei or dipolar reservoir 
 
 ## Simplified solution
 
-Through trials and errors with numerical simulation, it was noticed that the behavior of $^1$H and DD reservoirs don't depened on the $^{31}$P reservoir. The main idea then is to solve this $2 \times 2$ system (here I rewrite $1 / \tau_{i} = k_{i}$ and $c_1/c_{ss} = \kappa$):
+Through trials and errors with numerical simulation, it was noticed that the behavior of <sup>1</sup>H and DD reservoirs don't depened on the <sup>31</sup>P reservoir. The main idea then is to solve this $2 \times 2$ system (here I rewrite $1 / \tau_{i} = k_{i}$ and $c_1/c_{ss} = \kappa$):
 $$
 \frac{d\beta_1}{dt} = - k_1 \left(\beta_1 - \beta_{SS}\right),
 $$
@@ -27,7 +27,8 @@ $$
                          - k_{ss} \left(\beta_{SS}-\beta_L\right),
 $$
 
-and then one can use the solution $\beta_{ss}(t)$ of previous system to substitute it to the $^{31}$P equation:
+and then one can use the solution $\beta_{ss}(t)$ of previous system to substitute it to the <sup>31</sup>P equation:
+
 $$
 \frac{d\beta_2}{dt} = - k_2 \left(\beta_2 - \beta_{SS}(t)\right)
 $$
