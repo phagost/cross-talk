@@ -81,7 +81,7 @@ $$
 
 *I'm pretty sure these constants may be wrtitten prettier*. One things we may notice is $|\lambda_{-}| > |\lambda_{+}|$, so the minus constant correspond to the faster evolution.
 
-##  $^{31}$P depolarization experiment
+##  <sup>31</sup>P depolarization experiment
 
 One can see later that during <sup>1</sup>H depolarization experiment $\beta_{ss} \rightarrow \beta_L$ very fast in comparison with <sup>31</sup>P evolution. This gives us an oportunity to simplify $\beta_2$ evolution as:
 
